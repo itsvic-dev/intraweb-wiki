@@ -1,7 +1,6 @@
-- **Guides**
-    - [BGP](/BGP)
 - **Internal services**
     - [DNS](/DNS)
     - [ACME server](https://acme.iw)
 - **Useful links**
     - [Search engine](https://search.iw)
+    - [Registry (clearnet)](https://github.com/itsvic-dev/intraweb-registry)

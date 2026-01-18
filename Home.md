@@ -1,4 +1,7 @@
-Welcome to the Intraweb! Now that you're connected, you may be wondering where
-to go or what to do.
+## What is the Intraweb?
 
-Check out the sidebar for a list of useful resources!
+The Intraweb is a small network running on top of the Internet, with many
+routers interconnected typically via VPN tunnels.
+
+The Intraweb uses standard technologies that power the normal Internet too,
+such as BGP, DNS, and whois.
