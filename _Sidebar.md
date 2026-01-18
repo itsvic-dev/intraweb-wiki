@@ -1,6 +1,6 @@
 - **Internal services**
     - [DNS](/services/DNS)
-    - [Automatic CA](/services/Automatic-CA)
+    - [Automatic CA](/services/Automatic%20CA)
 - **Useful links**
     - [Search engine](https://search.iw)
     - [Registry (clearnet)](https://github.com/itsvic-dev/intraweb-registry)
