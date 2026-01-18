@@ -1,6 +1,6 @@
 - **Internal services**
     - [DNS](/DNS)
-    - [ACME server](https://acme.iw)
+    - [SSL Certificates](/SSL%20Certificates)
 - **Useful links**
     - [Search engine](https://search.iw)
     - [Registry (clearnet)](https://github.com/itsvic-dev/intraweb-registry)
