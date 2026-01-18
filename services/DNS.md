@@ -1,3 +1,5 @@
+# DNS
+
 We currently have a single DNS root server, which is also a recursive DNS
 server. This server lives at `10.21.0.1` (`v.root-servers.iw`).
 

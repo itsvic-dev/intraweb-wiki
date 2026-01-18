@@ -1,7 +1,9 @@
+# Automatic CA
+
 The Intraweb has a single root CA for Intraweb traffic. You can generate
 certificates for your Intraweb domains with the ACME server at [acme.iw](https://acme.iw).
 
-This ACME server is maintained by VIC-MNT.
+This ACME server is maintained by [VIC-MNT](/mnts/VIC-MNT).
 
 It should be enough to configure your ACME client to use
 `https://acme.iw/acme/directory`.
