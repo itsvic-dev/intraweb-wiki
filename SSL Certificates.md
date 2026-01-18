@@ -1,11 +1,14 @@
 The Intraweb has a single root CA for Intraweb traffic. You can generate
-certificates for your Intraweb domains with the ACME server at https://acme.iw.
+certificates for your Intraweb domains with the ACME server at [acme.iw](https://acme.iw).
+
+This ACME server is maintained by VIC-MNT.
 
 It should be enough to configure your ACME client to use
 `https://acme.iw/acme/directory`.
 
-The root CA certificate can be found at https://acme.iw/ca.pem. For
-convenience, here's a copy of the root certificate:
+The root CA certificate can be found at [acme.iw/ca.pem](https://acme.iw/ca.pem).
+For convenience, here's a copy of the root certificate. You can save this as a
+`ca.crt` file to include in your system's trusted root CA chain.
 
 ```
 -----BEGIN CERTIFICATE-----
