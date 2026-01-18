@@ -1,3 +1,7 @@
-- Useful links
+- **Guides**
+    - [BGP](/BGP)
+- **Internal services**
+    - [DNS](/DNS)
     - [ACME server](https://acme.iw)
+- **Useful links**
     - [Search engine](https://search.iw)
