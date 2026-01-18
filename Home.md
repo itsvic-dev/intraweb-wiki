@@ -1,3 +1,4 @@
-# Welcome to the Intraweb Wiki!
+Welcome to the Intraweb! Now that you're connected, you may be wondering where
+to go or what to do.
 
-blah blah blah
+Check out the sidebar for a list of useful resources!
